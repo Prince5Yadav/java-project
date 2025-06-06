@@ -19,6 +19,7 @@
 <body style="background-color: #E6F9E6;">
 	<%
 	/* Checking the user credentials */
+
 	String userType = (String) session.getAttribute("usertype");
 	String userName = (String) session.getAttribute("username");
 	String password = (String) session.getAttribute("password");

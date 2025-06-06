@@ -17,6 +17,7 @@
 	<%@ include file="header.jsp"%>
 	<%
 	String message = request.getParameter("message");
+
 	%>
 	<div class="container">
 		<div class="row"

@@ -37,6 +37,7 @@ public class DemandBean implements Serializable {
 	}
 
 	public int getDemandQty() {
+		
 		return demandQty;
 	}
 

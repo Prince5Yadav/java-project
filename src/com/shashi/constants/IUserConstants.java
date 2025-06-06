@@ -1,5 +1,6 @@
 package com.shashi.constants;
 
+
 public interface IUserConstants {
 
 	public String TABLE_USER = "user";

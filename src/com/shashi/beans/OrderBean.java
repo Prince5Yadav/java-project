@@ -1,5 +1,6 @@
 package com.shashi.beans;
 
+
 import java.io.Serializable;
 
 @SuppressWarnings("serial")

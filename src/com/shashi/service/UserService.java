@@ -1,5 +1,6 @@
 package com.shashi.service;
 
+
 import com.shashi.beans.UserBean;
 
 public interface UserService {

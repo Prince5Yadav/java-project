@@ -2,6 +2,7 @@ package com.shashi.beans;
 
 import java.io.Serializable;
 
+
 @SuppressWarnings("serial")
 public class UserBean implements Serializable {
 

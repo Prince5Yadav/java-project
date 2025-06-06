@@ -1,5 +1,6 @@
 package com.shashi.beans;
 
+
 import java.io.InputStream;
 import java.io.Serializable;
 import java.sql.Timestamp;

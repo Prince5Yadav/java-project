@@ -1,6 +1,6 @@
 # Online Shopping Cart (E-Commerce Website)
 
-This is an E-Commerce Website build for selling of any electronics products online.
+This is an E-Commerce Website build for selling of any electronics products online.NAME- ELISSION ELECTRONICS
 
 ### About
 
@@ -45,4 +45,37 @@ Note: The payment page is created only for demo purpose and its not fully integr
 - : Tomcat v8.0+ 
 - : MySQL Server 
 - : MySQL Workbench 
+Some Screenshots for the project:
+Home Page image
 
+Login Page image
+
+Register Page image
+
+Category Wise Product Filter image
+
+Cart Items image
+
+Credit Card Payment image
+
+Order Details & Status image
+
+User Profile image
+
+Admin Home image
+
+Stock Items image
+
+Shipped Items image
+
+Recent Orders yet to be shipped image
+
+Add Product to the stock image
+
+Remove Product from the stock image
+
+Update the stock item image
+
+Sample Email for order placed
+
+image
